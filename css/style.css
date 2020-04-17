@@ -1,0 +1,87 @@
+body {
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  margin: 0;
+}
+
+#dp {
+  width: 150px;
+  border-radius: 50%;
+}
+#about {
+  margin: auto;
+}
+
+.profile {
+  width: 30%;
+  margin: auto;
+}
+.skilltext {
+  text-align: left;
+}
+
+.skill-row {
+  margin: 80px auto;
+  width: 50%;
+}
+
+.coder {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.coder1 {
+  width: 25%;
+  float: right;
+  border-radius: 50%;
+  margin-left: 30px;
+}
+h1 {
+  color: #66bfbf;
+  font-family: 'Sacramento', cursive;
+  font-size: 60px;
+  margin: 50px auto 0;
+}
+h2 {
+  color: #66bfbf;
+  margin: 50px;
+}
+
+h3 {
+  color: #66bfbf;
+}
+.upper-container {
+  background-color: #b6efd4;
+  position: relative;
+  padding-top: 100px;
+}
+.mountain {
+  width: 60%;
+}
+
+.contact-me {
+  width: 50%;
+  margin: auto;
+}
+
+.topcloud {
+  width: 15%;
+  right: 300px;
+  top: 50px;
+  position: absolute;
+}
+.botcloud {
+  position: absolute;
+  width: 15%;
+  left: 300px;
+  bottom: 300px;
+}
+.middle-container {
+  margin-bottom: 50px;
+}
+.bottom-container {
+  background-color: #66bfbf;
+  margin: 0;
+  height: 100px;
+}
